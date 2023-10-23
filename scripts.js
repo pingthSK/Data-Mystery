@@ -6,6 +6,8 @@ function myFunction(){
 
     // Set Map Values
     d.set("333", 'https://monkeytype.com/');
+    d.set("340", 'https://youtu.be/VGdEdUH4v2k?si=rDwl5O41cUbMseDf')
+    d.set("341", 'https://youtu.be/FQZ_y_GSi9g?si=64n-8W1BRfiZ8ZpD')
     d.set("16", 'PutterOnEarth');
     d.set("34", 'https://www.youtube.com/shorts/DdkpRuD3WcA');
     d.set("69", "think fast chuck");
@@ -15,7 +17,7 @@ function myFunction(){
     d.set("984", 'Lol &#128525;&#128069;&#128525;&#128069;&#128525;&#128069;&#128525;&#128069;&#128525;&#128069;&#128525;&#128069;&#128525;&#128069;&#128525;&#128069;&#128525;&#128069;&#128525;&#128069;&#128525;&#128069;&#128525;&#128069;&#128525;&#128069;');
     d.set("Lol52", '69*69-1024')
     d.set('3737', 'goggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggog2481goggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggog1442goggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggoggog')
-    d.set("2481", 'epic super SuS video (Legendey rank )');
+    d.set("2481", 'Waiting For SUS VIDEO?!?!? Here we come!!! (Type 340 or 341 for super sus video!)');
     d.set("1442", 'the next conclusion ?????');
     d.set("Halloween2023", 'h12');
     d.set("h12", 'It’s Halloween! But guess what?, It’s kinda dark outside tho\ngo outside:h378\nstay in:h245');
