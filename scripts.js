@@ -29,6 +29,7 @@ function myFunction(){
     d.set("h84", '$image saying “destroy it before it destroy you (with the pic of scary craved pumkin with flash light inside$ \n h42: Run real quick!!\n Eat it munch munch: h290')
     d.set("h42", 'Jump scare $Song-Five night at Freddy')
     d.set("h290", 'Nom nom nom, Mmmmm, So delicious! Crunchy sweet umami! Ima go find more pumkiinnn! $Link below mail ping to get free pumkin plushie or diy product')
+    d.set("201", 'U Gay or not &#127987;&#128069;&#127814;&#12816;')
 
 
     let test = parseInt(code);
